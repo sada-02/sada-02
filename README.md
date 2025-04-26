@@ -1,4 +1,4 @@
-## Hi there 👋
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (sada-02|Kartik Sarda)" title="👋 Hi there! I'm (sada-02|Kartik Sarda)"/>]
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sada-02&show_icons=true&locale=en&layout=compact" alt="sada-02" /></p>
 
